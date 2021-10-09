@@ -9,6 +9,9 @@ button {
   margin: 10px;
   border: 1px solid darkorange;
 }
+button:hover {
+  cursor: pointer;
+}
 
 .container {
   display: -webkit-box;
